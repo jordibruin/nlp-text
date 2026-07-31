@@ -1,1 +1,1 @@
-https://jordibruin.github.io/nlp-text/ankeren.html
+https://jordibruin.github.io/nlp-text/index.html
