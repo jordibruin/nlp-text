@@ -1,0 +1,420 @@
+{
+  "sections": {
+    "baseFramesTitle": {
+      "en": "NLP Base Frames",
+      "nl": "NLP Basisframes"
+    },
+    "baseFramesFooter": {
+      "en": "One of the foundations of NLP is the NLP base frames. The NLP base frames consist of 4 core assumptions or attitudes (ways of thinking).",
+      "nl": "Een van de fundamenten van NLP zijn de NLP-basisframes. Deze bestaan uit 4 kern-aannames of houdingen (manieren van denken)."
+    }
+  },
+  "topics": [
+    {
+      "group": "intro",
+      "title": {
+        "en": "NLP Communication Model",
+        "nl": "NLP-communicatiemodel"
+      },
+      "icon": "arrow.triangle.branch",
+      "summary": {
+        "en": "The communication model shows how filters shape your experience and behavior.",
+        "nl": "Het communicatiemodel laat zien hoe filters je ervaring en gedrag vormen."
+      },
+      "paragraphs": [
+        {
+          "en": "The communication model shows how your brain filters incoming stimuli and translates them into thoughts, feelings, and behavior.",
+          "nl": "Het communicatiemodel laat zien hoe je brein binnenkomende prikkels filtert en vertaalt naar gedachten, gevoelens en gedrag."
+        },
+        {
+          "en": "In conversations, this helps you listen more consciously to language patterns, body language, and your internal response, so you communicate more clearly and effectively.",
+          "nl": "In gesprekken helpt dit je bewuster te luisteren naar taalpatronen, lichaamstaal en je interne reactie, zodat je duidelijker en effectiever communiceert."
+        }
+      ],
+      "imageName": "NLPCommunicatie"
+    },
+    {
+      "group": "intro",
+      "title": {
+        "en": "(Neuro)Logical Levels of NLP",
+        "nl": "(Neuro)Logische niveaus van NLP"
+      },
+      "icon": "square.stack.3d.up",
+      "summary": {
+        "en": "Change is more sustainable when you work at the right level.",
+        "nl": "Verandering is duurzamer als je op het juiste niveau werkt."
+      },
+      "paragraphs": [
+        {
+          "en": "Robert Dilts' logical levels help you determine where an issue really exists: environment, behavior, capabilities, beliefs, identity, or mission.",
+          "nl": "De logische niveaus van Robert Dilts helpen je bepalen waar een vraagstuk echt zit: omgeving, gedrag, vaardigheden, overtuigingen, identiteit of missie."
+        },
+        {
+          "en": "Higher levels organize the levels below. When the levels are aligned, change becomes more stable.",
+          "nl": "Hogere niveaus organiseren de niveaus eronder. Als de niveaus op elkaar afgestemd zijn, wordt verandering stabieler."
+        }
+      ],
+      "imageName": "Neuro"
+    },
+    {
+      "group": "base",
+      "title": {
+        "en": "Cause ⇄ Effect",
+        "nl": "Oorzaak ⇄ Gevolg"
+      },
+      "icon": "bus.fill",
+      "summary": {
+        "en": "Are you on the influence side with agency, or waiting on the effect side?",
+        "nl": "Sta je aan de kant van invloed en regie, of wacht je aan de kant van gevolg?"
+      },
+      "paragraphs": [
+        {
+          "en": "Which side are you on? Are you on the influence side (cause), where you have or seek agency? Or are you waiting, with initiative outside yourself, on the effect side?",
+          "nl": "Aan welke kant sta je? Sta je aan de invloedskant (oorzaak), waar je regie hebt of zoekt? Of wacht je, met initiatief buiten jezelf, aan de gevolgkant?"
+        },
+        {
+          "en": "Practical tip: choose language and actions that increase your influence. Are you in the driver's seat, or in the back of the bus?",
+          "nl": "Praktische tip: kies taal en acties die je invloed vergroten. Zit je aan het stuur, of achterin de bus?"
+        }
+      ],
+      "imageName": "Oorzaak"
+    },
+    {
+      "group": "base",
+      "title": {
+        "en": "Perception Is Projection",
+        "nl": "Perceptie is projectie"
+      },
+      "icon": "oval.portrait.fill",
+      "summary": {
+        "en": "You do not react to the world as it is, but to your internal representation.",
+        "nl": "Je reageert niet op de wereld zoals die is, maar op je interne representatie."
+      },
+      "paragraphs": [
+        {
+          "en": "You do not perceive the world objectively. Your brain filters, distorts, and fills in information based on your experiences.",
+          "nl": "Je neemt de wereld niet objectief waar. Je brein filtert, vervormt en vult informatie aan op basis van je ervaringen."
+        },
+        {
+          "en": "As a result, you unconsciously project meaning onto others. Recognizing this gives you more freedom of choice in your response.",
+          "nl": "Daardoor projecteer je onbewust betekenis op anderen. Dit herkennen geeft je meer keuzevrijheid in je reactie."
+        }
+      ],
+      "imageName": "Perceptie"
+    },
+    {
+      "group": "base",
+      "title": {
+        "en": "Body and Mind Influence Each Other",
+        "nl": "Lichaam en geest beïnvloeden elkaar"
+      },
+      "icon": "figure.mind.and.body",
+      "summary": {
+        "en": "What you think and feel influences your body, and your physiology influences your thinking.",
+        "nl": "Wat je denkt en voelt beïnvloedt je lichaam, en je fysiologie beïnvloedt je denken."
+      },
+      "paragraphs": [
+        {
+          "en": "Body and mind are constantly connected. A different posture, breath, or movement immediately changes your state.",
+          "nl": "Lichaam en geest zijn voortdurend verbonden. Een andere houding, ademhaling of beweging verandert direct je staat."
+        },
+        {
+          "en": "Use this deliberately: influence change positively through both your thinking and your physiology.",
+          "nl": "Gebruik dit bewust: beïnvloed verandering positief via zowel je denken als je fysiologie."
+        }
+      ],
+      "imageName": "Lichaam"
+    },
+    {
+      "group": "base",
+      "title": {
+        "en": "The CNS Does Not Hold Negation",
+        "nl": "Het zenuwstelsel kent geen ontkenning"
+      },
+      "icon": "xmark.seal.fill",
+      "summary": {
+        "en": "Focus on what you do want, not on what you want to avoid.",
+        "nl": "Richt je op wat je wel wilt, niet op wat je wilt vermijden."
+      },
+      "paragraphs": [
+        {
+          "en": "You can only 'not think' something after you have first represented it internally. The nervous system works with images, sounds, and feelings, not with the word 'not'.",
+          "nl": "Je kunt iets pas 'niet denken' nadat je het eerst intern hebt gerepresenteerd. Het zenuwstelsel werkt met beelden, geluiden en gevoelens, niet met het woord 'niet'."
+        },
+        {
+          "en": "So phrase things positively and directionally: 'I will remember this' instead of 'I must not forget this'.",
+          "nl": "Formuleer daarom positief en richtinggevend: 'Ik ga dit onthouden' in plaats van 'Ik mag dit niet vergeten'."
+        }
+      ],
+      "imageName": "CZS"
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "Rapport",
+        "nl": "Rapport"
+      },
+      "icon": "person.2.fill",
+      "summary": {
+        "en": "Connection comes before leading.",
+        "nl": "Verbinding komt voor leiden."
+      },
+      "paragraphs": [
+        {
+          "en": "Rapport is the sense of connection you can experience with someone. When you have rapport, trust grows and you become more open to each other. Rapport is not a trick, but mostly an attitude.",
+          "nl": "Rapport is het gevoel van verbinding dat je met iemand kunt ervaren. Als er rapport is, groeit vertrouwen en sta je meer open voor elkaar. Rapport is geen truc, maar vooral een houding."
+        },
+        {
+          "en": "You recognize that attitude in three things:",
+          "nl": "Je herkent die houding in drie dingen:"
+        },
+        {
+          "en": "Attention: you give genuine attention to the other person as they are.",
+          "nl": "Aandacht: je geeft oprechte aandacht aan de ander zoals die is."
+        },
+        {
+          "en": "Respect: you respect the other person's worldview and experience.",
+          "nl": "Respect: je respecteert de belevingswereld en ervaring van de ander."
+        },
+        {
+          "en": "Tuning in: you first tune in to the other person (follow) before trying to direct or lead.",
+          "nl": "Afstemmen: je stemt je eerst af op de ander (volgen) voordat je probeert te sturen of te leiden."
+        },
+        {
+          "en": "When rapport exists, mutual trust grows and ideas or suggestions are accepted more easily. If you want to communicate more effectively and reach your goals better, strong rapport is essential. Without rapport, communication is often less effective.",
+          "nl": "Wanneer er rapport is, groeit wederzijds vertrouwen en worden ideeën of suggesties makkelijker geaccepteerd. Als je effectiever wilt communiceren en je doelen beter wilt bereiken, is sterk rapport essentieel. Zonder rapport is communicatie vaak minder effectief."
+        },
+        {
+          "en": "The 3 elements of communication",
+          "nl": "De 3 elementen van communicatie"
+        }
+      ],
+      "bullets": [
+        {
+          "en": "Physiology: your body language, posture, and facial expression.",
+          "nl": "Fysiologie: je lichaamstaal, houding en gezichtsuitdrukking."
+        },
+        {
+          "en": "Tonality: how you say something, such as tone, pace, and volume.",
+          "nl": "Tonaliteit: hoe je iets zegt, zoals toon, tempo en volume."
+        },
+        {
+          "en": "Words: the words you use.",
+          "nl": "Woorden: de woorden die je gebruikt."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "Meta Language Model",
+        "nl": "Meta-taalmodel"
+      },
+      "icon": "magnifyingglass",
+      "summary": {
+        "en": "Use targeted questions to make vague language concrete again.",
+        "nl": "Gebruik gerichte vragen om vage taal weer concreet te maken."
+      },
+      "paragraphs": [
+        {
+          "en": "The Meta Model helps you recognize and clarify deletions, generalizations, and distortions in language.",
+          "nl": "Het Meta Model helpt je deleties, generalisaties en vervormingen in taal te herkennen en te verduidelijken."
+        },
+        {
+          "en": "By asking open, precise questions, you connect surface structure with deep structure and prevent misunderstandings.",
+          "nl": "Door open en precieze vragen te stellen, verbind je oppervlaktestructuur met dieptestructuur en voorkom je misverstanden."
+        }
+      ],
+      "imageName": "Metamodel"
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "Milton Language Model",
+        "nl": "Milton-taalmodel"
+      },
+      "icon": "quote.bubble.fill",
+      "summary": {
+        "en": "Intentional vague language creates space for personal meaning and unconscious resources.",
+        "nl": "Bewust vage taal creëert ruimte voor persoonlijke betekenis en onbewuste hulpbronnen."
+      },
+      "paragraphs": [
+        {
+          "en": "The Milton Model uses general, suggestive language to lower resistance and help someone connect internally to their own solutions.",
+          "nl": "Het Milton Model gebruikt algemene, suggestieve taal om weerstand te verlagen en iemand intern te laten verbinden met eigen oplossingen."
+        },
+        {
+          "en": "The goals are better contact, access to resources, and room for new insights.",
+          "nl": "De doelen zijn beter contact, toegang tot hulpbronnen en ruimte voor nieuwe inzichten."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "Anchoring",
+        "nl": "Ankeren"
+      },
+      "icon": "app.connected.to.app.below.fill",
+      "summary": {
+        "en": "Link a trigger to a desired state and activate it intentionally.",
+        "nl": "Koppel een trigger aan een gewenste staat en activeer die bewust."
+      },
+      "paragraphs": [
+        {
+          "en": "Charge your anchor during strong, positive moments so you can bring up that state faster later.",
+          "nl": "Laad je anker tijdens sterke, positieve momenten zodat je die staat later sneller kunt oproepen."
+        },
+        {
+          "en": "This gives you more control over focus, energy, and emotional state when you need it.",
+          "nl": "Dit geeft je meer regie over focus, energie en emotionele staat wanneer je die nodig hebt."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "Reframing",
+        "nl": "Herkaderen"
+      },
+      "icon": "arrow.triangle.2.circlepath",
+      "summary": {
+        "en": "Change the meaning and your response changes with it.",
+        "nl": "Verander de betekenis en je reactie verandert mee."
+      },
+      "paragraphs": [
+        {
+          "en": "With reframing, you do not directly change behavior, but the frame in which you interpret behavior.",
+          "nl": "Met herkaderen verander je niet direct gedrag, maar het kader waarin je gedrag interpreteert."
+        },
+        {
+          "en": "Context and meaning reframing open new possibilities and reduce getting stuck in old stories.",
+          "nl": "Context- en betekenisherkadering openen nieuwe mogelijkheden en verminderen vastlopen in oude verhalen."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "Representational Systems",
+        "nl": "Representatiesystemen"
+      },
+      "icon": "eye.fill",
+      "summary": {
+        "en": "Tune into how someone processes information internally.",
+        "nl": "Stem af op hoe iemand intern informatie verwerkt."
+      },
+      "paragraphs": [
+        {
+          "en": "Listen to predicates in language to hear whether someone mainly encodes visually, auditorily, kinesthetically, or auditory-digitally.",
+          "nl": "Luister naar predicaten in taal om te horen of iemand vooral visueel, auditief, kinesthetisch of auditief-digitaal codeert."
+        },
+        {
+          "en": "Matching the representational system strengthens rapport and increases the feeling of being understood.",
+          "nl": "Aansluiten bij het representatiesysteem versterkt rapport en vergroot het gevoel begrepen te worden."
+        }
+      ],
+      "bullets": [
+        {
+          "en": "Visual: seeing",
+          "nl": "Visueel: zien"
+        },
+        {
+          "en": "Auditory tonal: hearing",
+          "nl": "Auditief tonaal: horen"
+        },
+        {
+          "en": "Kinesthetic: feeling",
+          "nl": "Kinesthetisch: voelen"
+        },
+        {
+          "en": "Auditory digital: thinking",
+          "nl": "Auditief digitaal: denken"
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "NLP Work Model",
+        "nl": "NLP-werkmodel"
+      },
+      "icon": "checklist",
+      "summary": {
+        "en": "Make your goal clear and concrete so you can take focused action.",
+        "nl": "Maak je doel helder en concreet zodat je gericht kunt handelen."
+      },
+      "paragraphs": [
+        {
+          "en": "The work model helps you move from intention to execution with clear steps and testable outcomes.",
+          "nl": "Het werkmodel helpt je van intentie naar uitvoering te gaan met heldere stappen en toetsbare uitkomsten."
+        },
+        {
+          "en": "The more concrete your goal, the easier it is to use feedback and adjust.",
+          "nl": "Hoe concreter je doel, hoe makkelijker je feedback kunt gebruiken en bijsturen."
+        }
+      ],
+      "imageName": "Werkmodel"
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "Eye Patterns",
+        "nl": "Oogpatronen"
+      },
+      "icon": "eye",
+      "summary": {
+        "en": "Eye movements give clues about someone's internal processing.",
+        "nl": "Oogbewegingen geven aanwijzingen over iemands interne verwerking."
+      },
+      "paragraphs": [
+        {
+          "en": "By observing eye patterns, you get extra information about what someone is processing internally.",
+          "nl": "Door oogpatronen te observeren, krijg je extra informatie over wat iemand intern verwerkt."
+        },
+        {
+          "en": "Use this as a hypothesis and always combine it with language and context for reliable attunement.",
+          "nl": "Gebruik dit als hypothese en combineer het altijd met taal en context voor betrouwbare afstemming."
+        }
+      ],
+      "imageName": "Oogpatronen"
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "en": "Perceptual Positions",
+        "nl": "Waarnemingsposities"
+      },
+      "icon": "scope",
+      "summary": {
+        "en": "Switch intentionally between self, other, and observer perspectives.",
+        "nl": "Schakel bewust tussen het perspectief van jezelf, de ander en de observator."
+      },
+      "paragraphs": [
+        {
+          "en": "By switching between perceptual positions, you gain new insights and more flexibility in communication and behavior.",
+          "nl": "Door te schakelen tussen waarnemingsposities krijg je nieuwe inzichten en meer flexibiliteit in communicatie en gedrag."
+        },
+        {
+          "en": "Watch for dissociation in language: if someone speaks about themselves in the second person, guide them back to the first person.",
+          "nl": "Let op dissociatie in taal: als iemand over zichzelf spreekt in de tweede persoon, begeleid hen terug naar de eerste persoon."
+        }
+      ],
+      "bullets": [
+        {
+          "en": "First position: fully in your own experience.",
+          "nl": "Eerste positie: volledig in je eigen ervaring."
+        },
+        {
+          "en": "Second position: you step into the other person's experience.",
+          "nl": "Tweede positie: je stapt in de ervaring van de ander."
+        },
+        {
+          "en": "Third position: you observe yourself and the other person from a distance (meta-position).",
+          "nl": "Derde positie: je observeert jezelf en de ander van een afstand (meta-positie)."
+        }
+      ],
+      "imageName": "Waarneemposities"
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "sourceDocument": {
+    "nl": "NLP (practitioner) biblitheek.docx",
+    "en": "NLP (practitioner) library.docx"
+  },
+  "topics": [
+    {
+      "group": "foundation",
+      "title": {
+        "nl": "NLP Basisframes",
+        "en": "NLP Base Frames"
+      },
+      "icon": "square.stack.3d.up",
+      "summary": {
+        "nl": "Een van de fundamenten van NLP is werken met basisframes: houdingen die richting geven aan denken en gedrag.",
+        "en": "One of the foundations of NLP is working with base frames: attitudes that guide thinking and behavior."
+      },
+      "paragraphs": [
+        {
+          "nl": "De NLP-basisframes bestaan uit vier kernhoudingen die bepalen hoe je situaties interpreteert en hoe je handelt.",
+          "en": "The NLP base frames consist of four core attitudes that shape how you interpret situations and how you act."
+        },
+        {
+          "nl": "Door bewust met deze frames te werken, vergroot je regie, flexibiliteit en effectiviteit in communicatie.",
+          "en": "By working with these frames consciously, you increase agency, flexibility, and communication effectiveness."
+        }
+      ]
+    },
+    {
+      "group": "base",
+      "title": {
+        "nl": "Oorzaak - Gevolg",
+        "en": "Cause - Effect"
+      },
+      "icon": "bus.fill",
+      "summary": {
+        "nl": "Kies de invloedkant: neem regie in plaats van te wachten aan de gevolgkant.",
+        "en": "Choose the influence side: take ownership instead of waiting on the effect side."
+      },
+      "paragraphs": [
+        {
+          "nl": "Sta je aan de invloedkant (oorzaak) waar je initiatief neemt, of aan de gevolgkant waar initiatief buiten jezelf ligt?",
+          "en": "Are you on the influence side (cause), where you take initiative, or on the effect side, where initiative is outside yourself?"
+        },
+        {
+          "nl": "De kernvraag is: zit je achter het stuur van je keuzes, of achterin de (levens)bus?",
+          "en": "The key question is: are you in the driver’s seat of your choices, or in the back of the (life) bus?"
+        }
+      ]
+    },
+    {
+      "group": "base",
+      "title": {
+        "nl": "Perceptie is Projectie",
+        "en": "Perception Is Projection"
+      },
+      "icon": "oval.portrait.fill",
+      "summary": {
+        "nl": "Je reageert niet op de werkelijkheid zelf, maar op je interne constructie ervan.",
+        "en": "You do not react to reality itself, but to your internal construction of it."
+      },
+      "paragraphs": [
+        {
+          "nl": "Je brein filtert, vervormt en vult informatie aan op basis van eerdere ervaringen.",
+          "en": "Your brain filters, distorts, and completes information based on earlier experiences."
+        },
+        {
+          "nl": "Daardoor projecteer je onbewust betekenis op anderen en op situaties.",
+          "en": "As a result, you unconsciously project meaning onto others and situations."
+        }
+      ]
+    },
+    {
+      "group": "base",
+      "title": {
+        "nl": "Lichaam en Geest Beinvloeden Elkaar",
+        "en": "Body and Mind Influence Each Other"
+      },
+      "icon": "figure.mind.and.body",
+      "summary": {
+        "nl": "Wat je denkt en voelt beinvloedt je lichaam, en je lichaam beinvloedt hoe je denkt en ervaart.",
+        "en": "What you think and feel influences your body, and your body influences how you think and experience."
+      },
+      "paragraphs": [
+        {
+          "nl": "Veranderingen in houding, ademhaling en fysiologie hebben direct effect op je mentale en emotionele staat.",
+          "en": "Changes in posture, breathing, and physiology directly affect your mental and emotional state."
+        },
+        {
+          "nl": "Gebruik deze wisselwerking bewust om verandering positief te sturen.",
+          "en": "Use this interaction consciously to steer change in a positive direction."
+        }
+      ]
+    },
+    {
+      "group": "base",
+      "title": {
+        "nl": "Het Centrale Zenuwstelsel Houdt Geen Ontkenning Vast",
+        "en": "The Central Nervous System Does Not Hold Negation"
+      },
+      "icon": "xmark.seal.fill",
+      "summary": {
+        "nl": "Formuleer richtinggevend en positief: benoem wat je wel wilt doen.",
+        "en": "Phrase things positively and directionally: name what you do want to do."
+      },
+      "paragraphs": [
+        {
+          "nl": "Je kunt iets pas niet denken nadat je het eerst intern hebt voorgesteld.",
+          "en": "You can only ‘not think’ something after you first represent it internally."
+        },
+        {
+          "nl": "Het brein werkt met beelden, geluiden en gevoelens, niet met het woord 'niet'.",
+          "en": "The brain works with images, sounds, and feelings, not with the word ‘not’."
+        }
+      ]
+    },
+    {
+      "group": "core",
+      "title": {
+        "nl": "NLP Communicatiemodel",
+        "en": "NLP Communication Model"
+      },
+      "icon": "arrow.triangle.branch",
+      "summary": {
+        "nl": "Het communicatiemodel maakt zichtbaar hoe filters je stemming, gedrag en communicatie beinvloeden.",
+        "en": "The communication model shows how filters influence your state, behavior, and communication."
+      },
+      "paragraphs": [
+        {
+          "nl": "Door te zien hoe je informatie filtert, begrijp je beter wat je doet en waarom.",
+          "en": "By seeing how you filter information, you better understand what you do and why."
+        },
+        {
+          "nl": "In gesprekken helpt dit om bewuster te luisteren naar taalpatronen, lichaamstaal en interne reacties, zodat communicatie opener en effectiever wordt.",
+          "en": "In conversations, this helps you listen more consciously to language patterns, body language, and internal responses, making communication more open and effective."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Kijk naar de situatie zoals die feitelijk was.",
+          "en": "Look at the situation as it factually was."
+        },
+        {
+          "nl": "Onderzoek hoe jij de situatie filterde.",
+          "en": "Examine how you filtered the situation."
+        },
+        {
+          "nl": "Sta stil bij je interne voorstelling.",
+          "en": "Pause and notice your internal representation."
+        },
+        {
+          "nl": "Kijk naar stemming en fysiologie.",
+          "en": "Observe mood and physiology."
+        },
+        {
+          "nl": "Ontdek het effect op gedrag.",
+          "en": "Discover the effect on behavior."
+        },
+        {
+          "nl": "Kies bewust hoe je het anders wilt doen.",
+          "en": "Choose consciously how you want to do it differently."
+        }
+      ]
+    },
+    {
+      "group": "core",
+      "title": {
+        "nl": "(Neuro)Logische Niveaus van NLP",
+        "en": "(Neuro)Logical Levels of NLP"
+      },
+      "icon": "square.stack.3d.up.fill",
+      "summary": {
+        "nl": "Verandering is duurzamer als je werkt op het niveau waar het echte vraagstuk zit.",
+        "en": "Change is more sustainable when you work at the level where the real issue sits."
+      },
+      "paragraphs": [
+        {
+          "nl": "Missie en identiteit beinvloeden overtuigingen, overtuigingen sturen vaardigheden, vaardigheden sturen gedrag, en gedrag wordt zichtbaar in de omgeving.",
+          "en": "Mission and identity influence beliefs, beliefs drive capabilities, capabilities drive behavior, and behavior becomes visible in the environment."
+        },
+        {
+          "nl": "Wanneer je vastloopt, helpt dit model om gerichter te veranderen op het niveau dat werkelijk impact heeft.",
+          "en": "When you get stuck, this model helps you change more precisely at the level that truly creates impact."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Een hoger niveau organiseert informatie op lagere niveaus.",
+          "en": "A higher level organizes information on lower levels."
+        },
+        {
+          "nl": "Verandering op een lager niveau kan hoger niveau raken.",
+          "en": "Change at a lower level can affect a higher level."
+        },
+        {
+          "nl": "Verandering op een hoger niveau werkt door op lagere niveaus.",
+          "en": "Change at a higher level propagates to lower levels."
+        },
+        {
+          "nl": "De oplossing ligt vaak op een ander (hoger) niveau dan waar het probleem zichtbaar is.",
+          "en": "The solution is often on a different (higher) level than where the problem is visible."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Rapport",
+        "en": "Rapport"
+      },
+      "icon": "person.2.fill",
+      "summary": {
+        "nl": "Rapport is verbinding: een houding van aandacht, respect en afstemming.",
+        "en": "Rapport is connection: an attitude of attention, respect, and attunement."
+      },
+      "paragraphs": [
+        {
+          "nl": "Als er rapport is, groeit vertrouwen en worden ideeen en suggesties makkelijker geaccepteerd.",
+          "en": "When rapport is present, trust grows and ideas and suggestions are accepted more easily."
+        },
+        {
+          "nl": "Rapport gaat niet alleen over techniek, maar vooral over hoe je aanwezig bent bij de ander.",
+          "en": "Rapport is not only about technique, but mainly about how you show up with the other person."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Aandacht: oprechte aandacht voor de ander zoals die is.",
+          "en": "Attention: genuine attention to the other person as they are."
+        },
+        {
+          "nl": "Respect: respect voor wereldbeeld en ervaring van de ander.",
+          "en": "Respect: respect for the other person’s worldview and experience."
+        },
+        {
+          "nl": "Afstemmen: eerst volgen, dan leiden.",
+          "en": "Attunement: first follow, then lead."
+        },
+        {
+          "nl": "3 communicatie-elementen: fysiologie, tonaliteit, woorden.",
+          "en": "3 communication elements: physiology, tonality, words."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Meta Taalmodel",
+        "en": "Meta Model"
+      },
+      "icon": "magnifyingglass",
+      "summary": {
+        "nl": "Het metamodel maakt vage taal weer concreet door gerichte open vragen.",
+        "en": "The Meta Model makes vague language concrete again through targeted open questions."
+      },
+      "paragraphs": [
+        {
+          "nl": "Taal is vaak de oppervlaktestructuur; onderliggend ligt dieptestructuur met ervaring en betekenis.",
+          "en": "Language is often surface structure; beneath it lies deep structure with experience and meaning."
+        },
+        {
+          "nl": "Door weglatingen, generalisaties en vervormingen te herkennen, voorkom je misverstanden en sluit je beter aan.",
+          "en": "By recognizing deletions, generalizations, and distortions, you prevent misunderstandings and attune better."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Generalisaties herkennen en uitvragen.",
+          "en": "Recognize and challenge generalizations."
+        },
+        {
+          "nl": "Vervormingen toetsen op bewijs.",
+          "en": "Test distortions against evidence."
+        },
+        {
+          "nl": "Weglatingen concretiseren.",
+          "en": "Make deletions concrete."
+        },
+        {
+          "nl": "Nominalisaties terugbrengen naar proces.",
+          "en": "Turn nominalizations back into processes."
+        },
+        {
+          "nl": "Vage verwijzingen expliciet maken.",
+          "en": "Make vague references explicit."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Milton Taalmodel",
+        "en": "Milton Model"
+      },
+      "icon": "quote.bubble.fill",
+      "summary": {
+        "nl": "Bewust vaag taalgebruik geeft ruimte voor interne betekenisvorming en hulpbronnen.",
+        "en": "Intentional vague language creates room for internal meaning-making and resources."
+      },
+      "paragraphs": [
+        {
+          "nl": "Door minder specifiek te spreken, nodig je de ander uit om eigen antwoorden en associaties te activeren.",
+          "en": "By speaking less specifically, you invite the other person to activate their own answers and associations."
+        },
+        {
+          "nl": "Het model wordt gebruikt om contact te verdiepen, weerstand te verlagen en nieuwe inzichten toegankelijk te maken.",
+          "en": "The model is used to deepen contact, lower resistance, and make new insights accessible."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Open zinnen en generalisaties.",
+          "en": "Open sentences and generalizations."
+        },
+        {
+          "nl": "Nominalisaties.",
+          "en": "Nominalizations."
+        },
+        {
+          "nl": "Mindreads.",
+          "en": "Mind reads."
+        },
+        {
+          "nl": "Trance-inducerende taal en vaag taalgebruik.",
+          "en": "Trance-inducing and vague language."
+        },
+        {
+          "nl": "Open vragen die intern zoeken stimuleren.",
+          "en": "Open questions that stimulate internal searching."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Ankeren",
+        "en": "Anchoring"
+      },
+      "icon": "app.connected.to.app.below.fill",
+      "summary": {
+        "nl": "Koppel een trigger aan een gewenste stemming zodat je die later snel kunt oproepen.",
+        "en": "Link a trigger to a desired state so you can quickly evoke it later."
+      },
+      "paragraphs": [
+        {
+          "nl": "Laad een anker op tijdens sterke positieve momenten en activeer hetzelfde anker op momenten dat je de staat nodig hebt.",
+          "en": "Charge an anchor during strong positive moments and activate the same anchor when you need that state."
+        },
+        {
+          "nl": "Door herhaling wordt de koppeling sterker en betrouwbaarder.",
+          "en": "Repetition makes the association stronger and more reliable."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Kies de gewenste staat.",
+          "en": "Choose the desired state."
+        },
+        {
+          "nl": "Herbeleef een sterk moment levendig.",
+          "en": "Re-experience a strong moment vividly."
+        },
+        {
+          "nl": "Plaats op het piekmoment een unieke trigger.",
+          "en": "Apply a unique trigger at the peak moment."
+        },
+        {
+          "nl": "Herhaal meerdere keren.",
+          "en": "Repeat several times."
+        },
+        {
+          "nl": "Test of de trigger de staat automatisch oproept.",
+          "en": "Test whether the trigger automatically evokes the state."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Herkaderen",
+        "en": "Reframing"
+      },
+      "icon": "arrow.triangle.2.circlepath",
+      "summary": {
+        "nl": "Verander het kader of de betekenis en je ervaring van dezelfde situatie verandert mee.",
+        "en": "Change the frame or meaning, and your experience of the same situation changes too."
+      },
+      "paragraphs": [
+        {
+          "nl": "Je verandert niet direct het gedrag, maar de interpretatie van gedrag of situatie.",
+          "en": "You don’t directly change behavior, but the interpretation of behavior or situation."
+        },
+        {
+          "nl": "Dit kan snel ruimte, rust en nieuwe mogelijkheden opleveren.",
+          "en": "This can quickly create space, calm, and new possibilities."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Contextherkadering: zelfde betekenis, andere context.",
+          "en": "Context reframing: same meaning, different context."
+        },
+        {
+          "nl": "Betekenisherkadering: zelfde situatie, andere helpende betekenis.",
+          "en": "Meaning reframing: same situation, different helpful meaning."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Representatiesystemen",
+        "en": "Representational Systems"
+      },
+      "icon": "eye.fill",
+      "summary": {
+        "nl": "Sluit aan op iemands binnenwereld via het representatiesysteem in taal en gedrag.",
+        "en": "Connect with someone’s inner world through representational systems in language and behavior."
+      },
+      "paragraphs": [
+        {
+          "nl": "Predikaten geven vaak aanwijzingen over hoe iemand informatie intern verwerkt.",
+          "en": "Predicates often reveal how someone internally processes information."
+        },
+        {
+          "nl": "Afstemmen op het dominante systeem vergroot rapport en het gevoel begrepen te worden.",
+          "en": "Matching the dominant system increases rapport and the sense of being understood."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Visueel - zien.",
+          "en": "Visual - seeing."
+        },
+        {
+          "nl": "Auditief tonaal - horen.",
+          "en": "Auditory tonal - hearing."
+        },
+        {
+          "nl": "Kinesthetisch - voelen.",
+          "en": "Kinesthetic - feeling."
+        },
+        {
+          "nl": "Auditief digitaal - denken.",
+          "en": "Auditory digital - thinking."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "NLP Werkmodel",
+        "en": "NLP Work Model"
+      },
+      "icon": "checklist",
+      "summary": {
+        "nl": "Maak doelen concreet en doorloop stappen om gericht naar resultaat te bewegen.",
+        "en": "Make goals concrete and follow clear steps to move toward results."
+      },
+      "paragraphs": [
+        {
+          "nl": "Het werkmodel helpt je om van wens naar uitvoerbaar plan te gaan.",
+          "en": "The work model helps you move from intention to an executable plan."
+        },
+        {
+          "nl": "Door hindernissen en hulpbronnen expliciet te maken, vergroot je de kans op succesvol handelen.",
+          "en": "By making obstacles and resources explicit, you increase the chance of successful action."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Beschrijf gewenste situatie.",
+          "en": "Describe the desired situation."
+        },
+        {
+          "nl": "Beschrijf huidige situatie.",
+          "en": "Describe the current situation."
+        },
+        {
+          "nl": "Benoem hindernissen.",
+          "en": "Name obstacles."
+        },
+        {
+          "nl": "Benoem interne en externe hulpbronnen.",
+          "en": "Name internal and external resources."
+        },
+        {
+          "nl": "Formuleer je doel opnieuw en completer.",
+          "en": "Reformulate your goal, more complete and specific."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Oogpatronen",
+        "en": "Eye Patterns"
+      },
+      "icon": "eye",
+      "summary": {
+        "nl": "Oogbewegingen kunnen aanwijzingen geven over iemands interne verwerkingsproces.",
+        "en": "Eye movements can provide clues about someone’s internal processing."
+      },
+      "paragraphs": [
+        {
+          "nl": "Door oogpatronen te observeren krijg je extra informatie over waar iemand intern mee bezig is.",
+          "en": "By observing eye patterns, you gain extra information about what someone is processing internally."
+        },
+        {
+          "nl": "Gebruik dit als hypothese en combineer altijd met context en taal.",
+          "en": "Use this as a hypothesis and always combine it with context and language."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "VC - visuele constructie.",
+          "en": "VC - visual construction."
+        },
+        {
+          "nl": "VH - visuele herinnering.",
+          "en": "VR - visual recall."
+        },
+        {
+          "nl": "AC - auditieve constructie.",
+          "en": "AC - auditory construction."
+        },
+        {
+          "nl": "AH - auditieve herinnering.",
+          "en": "AR - auditory recall."
+        },
+        {
+          "nl": "K - kinesthetisch.",
+          "en": "K - kinesthetic."
+        },
+        {
+          "nl": "AD - auditief digitaal (gedachten).",
+          "en": "AD - auditory digital (thoughts)."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Waarneemposities",
+        "en": "Perceptual Positions"
+      },
+      "icon": "scope",
+      "summary": {
+        "nl": "Schakel bewust tussen ik-, jij- en observatorperspectief voor meer inzicht en flexibiliteit.",
+        "en": "Switch consciously between self, other, and observer perspectives for more insight and flexibility."
+      },
+      "paragraphs": [
+        {
+          "nl": "Eerste positie is volledig in je eigen ervaring, tweede positie in de ander, derde positie op afstand als observator.",
+          "en": "First position is fully in your own experience, second position in the other person, third position as a detached observer."
+        },
+        {
+          "nl": "Bewust wisselen tussen posities helpt je communicatie en gedrag verfijnen.",
+          "en": "Consciously switching positions helps refine your communication and behavior."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Eerste positie: jezelf.",
+          "en": "First position: yourself."
+        },
+        {
+          "nl": "Tweede positie: de ander.",
+          "en": "Second position: the other person."
+        },
+        {
+          "nl": "Derde positie: meta-observatie.",
+          "en": "Third position: meta-observation."
+        },
+        {
+          "nl": "Let op dissociatie in taal: breng je-vorm terug naar ik-vorm.",
+          "en": "Watch for dissociation in language: bring ‘you-form’ back to ‘I-form’."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Zintuigelijke Scherpzinnigheid",
+        "en": "Sensory Acuity"
+      },
+      "icon": "ear.and.waveform",
+      "summary": {
+        "nl": "Observeer zintuigelijk en neutraal: eerst waarnemen, daarna pas interpreteren.",
+        "en": "Observe with your senses and neutrally: perceive first, interpret later."
+      },
+      "paragraphs": [
+        {
+          "nl": "Door kleine veranderingen in stem, houding en gedrag op te merken, stem je nauwkeuriger af op de ander.",
+          "en": "By noticing small shifts in voice, posture, and behavior, you attune more precisely to the other person."
+        },
+        {
+          "nl": "Zet oordeel uit en nieuwsgierigheid aan door vragen te stellen vanuit wat je feitelijk waarneemt.",
+          "en": "Turn judgment off and curiosity on by asking questions from what you factually observe."
+        }
+      ]
+    },
+    {
+      "group": "history",
+      "title": {
+        "nl": "Het Ontstaan van NLP",
+        "en": "The Origin of NLP"
+      },
+      "icon": "clock.arrow.trianglehead.counterclockwise.rotate.90",
+      "summary": {
+        "nl": "NLP ontstond in de jaren 70 uit het modelleren van effectieve therapeuten en hun veranderingspatronen.",
+        "en": "NLP emerged in the 1970s by modeling effective therapists and their change patterns."
+      },
+      "paragraphs": [
+        {
+          "nl": "Richard Bandler en John Grinder modelleerden onder anderen Milton Erickson en Virginia Satir.",
+          "en": "Richard Bandler and John Grinder modeled, among others, Milton Erickson and Virginia Satir."
+        },
+        {
+          "nl": "NLP wordt gebruikt om patronen in denken, taal en gedrag te herkennen en gericht te veranderen in coaching, training en persoonlijke ontwikkeling.",
+          "en": "NLP is used to recognize and intentionally change patterns in thinking, language, and behavior in coaching, training, and personal development."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Inzicht in relatie tussen gedachten, taal en gedrag.",
+          "en": "Insight into the relationship between thoughts, language, and behavior."
+        },
+        {
+          "nl": "Bewustwording van automatische patronen.",
+          "en": "Awareness of automatic patterns."
+        },
+        {
+          "nl": "Technieken voor gedrags- en communicatieverandering.",
+          "en": "Techniques for behavior and communication change."
+        },
+        {
+          "nl": "Praktisch toepasbaar in verschillende contexten.",
+          "en": "Practical and applicable across contexts."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "NLP Vooronderstellingen",
+        "en": "NLP Presuppositions"
+      },
+      "icon": "lightbulb.max.fill",
+      "summary": {
+        "nl": "Vooronderstellingen zijn praktische denkkaders die flexibiliteit, invloed en communicatiekracht vergroten.",
+        "en": "Presuppositions are practical thinking frames that increase flexibility, influence, and communication power."
+      },
+      "paragraphs": [
+        {
+          "nl": "Deze principes helpen je gedrag beter begrijpen, effectiever communiceren en meer regie nemen over resultaten.",
+          "en": "These principles help you better understand behavior, communicate more effectively, and take more ownership of results."
+        },
+        {
+          "nl": "De essentie is: werk met feedback, behoud rapport en verruim keuzes.",
+          "en": "The essence is: work with feedback, maintain rapport, and expand choices."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Respecteer het model van de wereld van de ander.",
+          "en": "Respect the other person’s model of the world."
+        },
+        {
+          "nl": "De betekenis van communicatie is de respons die je krijgt.",
+          "en": "The meaning of communication is the response you get."
+        },
+        {
+          "nl": "De kaart is niet het gebied.",
+          "en": "The map is not the territory."
+        },
+        {
+          "nl": "Accepteer de persoon, niet per se het gedrag.",
+          "en": "Accept the person, not necessarily the behavior."
+        },
+        {
+          "nl": "De betekenis van gedrag hangt af van context.",
+          "en": "The meaning of behavior depends on context."
+        },
+        {
+          "nl": "Elk gedrag heeft een positieve intentie.",
+          "en": "Every behavior has a positive intention."
+        },
+        {
+          "nl": "Gedrag is de beste huidige keuze binnen beschikbare opties.",
+          "en": "Behavior is the best current choice within available options."
+        },
+        {
+          "nl": "Gedrag geeft de belangrijkste informatie over een persoon.",
+          "en": "Behavior provides the most important information about a person."
+        },
+        {
+          "nl": "Iedereen heeft hulpbronnen voor gewenste resultaten.",
+          "en": "Everyone has resources for desired results."
+        },
+        {
+          "nl": "Geen onvermogende mensen, wel onvermogende stemmingen.",
+          "en": "There are no incapable people, only unresourceful states."
+        },
+        {
+          "nl": "Iedereen heeft leiding over zijn geest en resultaten.",
+          "en": "Everyone can lead their mind and therefore their results."
+        },
+        {
+          "nl": "Meest flexibel gedrag geeft meeste invloed.",
+          "en": "The most flexible behavior has the most influence."
+        },
+        {
+          "nl": "Er is geen mislukking, alleen feedback.",
+          "en": "There is no failure, only feedback."
+        },
+        {
+          "nl": "Weerstand wijst vaak op gebrek aan rapport.",
+          "en": "Resistance often points to a lack of rapport."
+        },
+        {
+          "nl": "Procedures horen keuzes te verruimen en integratie te ondersteunen.",
+          "en": "Procedures should expand choices and support integration."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Kalibreren",
+        "en": "Calibrating"
+      },
+      "icon": "waveform.path.ecg",
+      "summary": {
+        "nl": "Kalibreren is het waarnemen van minimale non-verbale veranderingen om interne toestanden beter te begrijpen.",
+        "en": "Calibrating is observing minimal non-verbal changes to better understand internal states."
+      },
+      "paragraphs": [
+        {
+          "nl": "Veranderingen aan de buitenkant geven signalen over wat er van binnen verandert.",
+          "en": "External changes signal what is changing internally."
+        },
+        {
+          "nl": "Door observaties te ijken en te koppelen aan toestand, zie je sneller of je communicatie impact heeft en waar incongruentie zit.",
+          "en": "By calibrating observations and linking them to state, you see faster whether your communication has impact and where incongruence appears."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Submodaliteiten",
+        "en": "Submodalities"
+      },
+      "icon": "slider.horizontal.3",
+      "summary": {
+        "nl": "Submodaliteiten zijn de details van interne beelden, geluiden en gevoelens die emotionele impact bepalen.",
+        "en": "Submodalities are the details of internal images, sounds, and feelings that shape emotional impact."
+      },
+      "paragraphs": [
+        {
+          "nl": "Voorbeelden zijn helderheid, afstand, volume en intensiteit.",
+          "en": "Examples are brightness, distance, volume, and intensity."
+        },
+        {
+          "nl": "Door deze instellingen bewust te veranderen, verander je direct hoe sterk je een herinnering of gedachte beleeft.",
+          "en": "By changing these settings consciously, you immediately change how intensely you experience a memory or thought."
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Chunken met Taal",
+        "en": "Chunking with Language"
+      },
+      "icon": "text.alignleft",
+      "summary": {
+        "nl": "Chunken helpt je schakelen tussen detail en overzicht om betekenis, richting en opties te vergroten.",
+        "en": "Chunking helps you switch between detail and overview to increase meaning, direction, and options."
+      },
+      "paragraphs": [
+        {
+          "nl": "Upchunken brengt je naar doelen, intenties en het grotere geheel.",
+          "en": "Upchunking takes you to goals, intentions, and the bigger picture."
+        },
+        {
+          "nl": "Lateraal chunken zoekt alternatieven op hetzelfde niveau en downchunken maakt concreet en uitvoerbaar.",
+          "en": "Lateral chunking finds alternatives at the same level, and downchunking makes things concrete and actionable."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Upchunken: Waar is dit een voorbeeld van?",
+          "en": "Upchunking: What is this an example of?"
+        },
+        {
+          "nl": "Lateraal: Waar lijkt dit op?",
+          "en": "Lateral: What is this similar to?"
+        },
+        {
+          "nl": "Downchunken: Wat bedoel je precies en uit welke onderdelen bestaat dit?",
+          "en": "Downchunking: What exactly do you mean, and which parts does this consist of?"
+        }
+      ]
+    },
+    {
+      "group": "practitioner",
+      "title": {
+        "nl": "Identiteit als Hulpbron",
+        "en": "Identity as a Resource"
+      },
+      "icon": "person.crop.circle.badge.plus",
+      "summary": {
+        "nl": "Gebruik kind-zelf, toekomst-zelf en huidige-zelf als hulpbronnen om sterker te kiezen en handelen in het nu.",
+        "en": "Use child-self, future-self, and present-self as resources to choose and act with more strength in the present."
+      },
+      "paragraphs": [
+        {
+          "nl": "Je kind-zelf activeert speelsheid, energie en onbevangenheid.",
+          "en": "Your child-self activates playfulness, energy, and openness."
+        },
+        {
+          "nl": "Je toekomst-zelf brengt wijsheid, overzicht en stabiliteit; je huidige-zelf integreert dit in concrete keuzes.",
+          "en": "Your future-self brings wisdom, overview, and stability; your present-self integrates this into concrete choices."
+        }
+      ],
+      "bullets": [
+        {
+          "nl": "Wat doe je nu met deze kracht?",
+          "en": "What do you do now with this strength?"
+        },
+        {
+          "nl": "Welke keuze heb je te maken?",
+          "en": "Which choice do you need to make?"
+        },
+        {
+          "nl": "Kernzin: je hebt alle hulpbronnen in je om de juiste keuzes te maken.",
+          "en": "Core sentence: you have all the resources within you to make the right choices."
+        }
+      ]
+    }
+  ]
+}
