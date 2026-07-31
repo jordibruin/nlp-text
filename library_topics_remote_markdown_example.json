@@ -61,7 +61,7 @@
       },
       "icon": "books.vertical.fill",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-practitioner-onderwerpen-en-korte-samenvatting.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-practitioner-onderwerpen-en-korte-samenvatting.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/nlp-practitioner-onderwerpen-en-korte-samenvatting.html",
       "markdownResource": "library-markdown/nlp-practitioner-onderwerpen-en-korte-samenvatting.md"
     },
     {
@@ -73,7 +73,7 @@
       },
       "icon": "square.stack.3d.up",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-basisframes.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-basisframes.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/nlp-basisframes.html",
       "markdownResource": "library-markdown/nlp-basisframes.md"
     },
     {
@@ -85,7 +85,7 @@
       },
       "icon": "arrow.triangle.branch",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-communicatiemodel.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-communicatiemodel.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/nlp-communicatiemodel.html",
       "markdownResource": "library-markdown/nlp-communicatiemodel.md"
     },
     {
@@ -97,7 +97,7 @@
       },
       "icon": "square.stack.3d.up.fill",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/neuro-logische-niveaus-van-nlp.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/neuro-logische-niveaus-van-nlp.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/neuro-logische-niveaus-van-nlp.html",
       "markdownResource": "library-markdown/neuro-logische-niveaus-van-nlp.md"
     },
     {
@@ -109,7 +109,7 @@
       },
       "icon": "person.2.fill",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/rapport.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/rapport.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/rapport.html",
       "markdownResource": "library-markdown/rapport.md"
     },
     {
@@ -121,7 +121,7 @@
       },
       "icon": "magnifyingglass",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/meta-taalmodel.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/meta-taalmodel.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/meta-taalmodel.html",
       "markdownResource": "library-markdown/meta-taalmodel.md"
     },
     {
@@ -133,7 +133,7 @@
       },
       "icon": "quote.bubble.fill",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/milton-taalmodel.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/milton-taalmodel.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/milton-taalmodel.html",
       "markdownResource": "library-markdown/milton-taalmodel.md"
     },
     {
@@ -145,7 +145,7 @@
       },
       "icon": "app.connected.to.app.below.fill",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/ankeren.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/ankeren.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/ankeren.html",
       "markdownResource": "library-markdown/ankeren.md"
     },
     {
@@ -157,7 +157,7 @@
       },
       "icon": "arrow.triangle.2.circlepath",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/herkaderen.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/herkaderen.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/herkaderen.html",
       "markdownResource": "library-markdown/herkaderen.md"
     },
     {
@@ -169,7 +169,7 @@
       },
       "icon": "eye.fill",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/representatiesystemen.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/representatiesystemen.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/representatiesystemen.html",
       "markdownResource": "library-markdown/representatiesystemen.md"
     },
     {
@@ -181,7 +181,7 @@
       },
       "icon": "checklist",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-werkmodel.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-werkmodel.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/nlp-werkmodel.html",
       "markdownResource": "library-markdown/nlp-werkmodel.md"
     },
     {
@@ -193,7 +193,7 @@
       },
       "icon": "eye",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/oogpatronen.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/oogpatronen.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/oogpatronen.html",
       "markdownResource": "library-markdown/oogpatronen.md"
     },
     {
@@ -205,7 +205,7 @@
       },
       "icon": "scope",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/waarneemposities.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/waarneemposities.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/waarneemposities.html",
       "markdownResource": "library-markdown/waarneemposities.md"
     },
     {
@@ -217,7 +217,7 @@
       },
       "icon": "ear.and.waveform",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/zintuigelijk-scherpzinnigheid.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/zintuigelijk-scherpzinnigheid.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/zintuigelijk-scherpzinnigheid.html",
       "markdownResource": "library-markdown/zintuigelijk-scherpzinnigheid.md"
     },
     {
@@ -229,7 +229,7 @@
       },
       "icon": "clock.arrow.trianglehead.counterclockwise.rotate.90",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/het-ontstaan-van-nlp.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/het-ontstaan-van-nlp.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/het-ontstaan-van-nlp.html",
       "markdownResource": "library-markdown/het-ontstaan-van-nlp.md"
     },
     {
@@ -241,7 +241,7 @@
       },
       "icon": "lightbulb.max.fill",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-vooronderstellingen.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-vooronderstellingen.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/nlp-vooronderstellingen.html",
       "markdownResource": "library-markdown/nlp-vooronderstellingen.md"
     },
     {
@@ -253,7 +253,7 @@
       },
       "icon": "slider.horizontal.3",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/submodaliteiten.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/submodaliteiten.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/submodaliteiten.html",
       "markdownResource": "library-markdown/submodaliteiten.md"
     },
     {
@@ -265,7 +265,7 @@
       },
       "icon": "text.alignleft",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/chunken-met-taal.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/chunken-met-taal.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/chunken-met-taal.html",
       "markdownResource": "library-markdown/chunken-met-taal.md"
     },
     {
@@ -277,7 +277,7 @@
       },
       "icon": "person.crop.circle.badge.plus",
       "markdownURL": "https://example.com/daily-nlp/library-markdown/identiteit-als-hulpbron.md",
-      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/identiteit-als-hulpbron.html",
+      "htmlURL": "https://jordibruin.github.io/nlp-text/identiteit-als-hulpbron.html",
       "markdownResource": "library-markdown/identiteit-als-hulpbron.md"
     }
   ]
