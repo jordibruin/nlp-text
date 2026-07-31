@@ -3,14 +3,6 @@
   "description": "Example manifest for loading Daily NLP library topics from hosted Markdown files. Replace example.com URLs with your CDN or website URLs.",
   "categories": [
     {
-      "id": "overview",
-      "title": {
-        "nl": "Overzicht",
-        "en": "Overview"
-      },
-      "icon": "books.vertical.fill"
-    },
-    {
       "id": "foundation",
       "title": {
         "nl": "Fundamenten",
@@ -52,18 +44,6 @@
     }
   ],
   "topics": [
-    {
-      "id": "nlp-practitioner-onderwerpen-en-korte-samenvatting",
-      "category": "overview",
-      "title": {
-        "nl": "NLP (practitioner) onderwerpen en korte samenvatting",
-        "en": "NLP Practitioner Topics and Short Summary"
-      },
-      "icon": "books.vertical.fill",
-      "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-practitioner-onderwerpen-en-korte-samenvatting.md",
-      "htmlURL": "https://jordibruin.github.io/nlp-text/nlp-practitioner-onderwerpen-en-korte-samenvatting.html",
-      "markdownResource": "library-markdown/nlp-practitioner-onderwerpen-en-korte-samenvatting.md"
-    },
     {
       "id": "nlp-basisframes",
       "category": "foundation",
