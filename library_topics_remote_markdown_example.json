@@ -1,0 +1,284 @@
+{
+  "version": 1,
+  "description": "Example manifest for loading Daily NLP library topics from hosted Markdown files. Replace example.com URLs with your CDN or website URLs.",
+  "categories": [
+    {
+      "id": "overview",
+      "title": {
+        "nl": "Overzicht",
+        "en": "Overview"
+      },
+      "icon": "books.vertical.fill"
+    },
+    {
+      "id": "foundation",
+      "title": {
+        "nl": "Fundamenten",
+        "en": "Foundations"
+      },
+      "icon": "square.stack.3d.up"
+    },
+    {
+      "id": "communication",
+      "title": {
+        "nl": "Communicatie",
+        "en": "Communication"
+      },
+      "icon": "person.2.wave.2.fill"
+    },
+    {
+      "id": "language",
+      "title": {
+        "nl": "Taalmodellen",
+        "en": "Language Models"
+      },
+      "icon": "text.bubble.fill"
+    },
+    {
+      "id": "practice",
+      "title": {
+        "nl": "Praktijkmodellen",
+        "en": "Practice Models"
+      },
+      "icon": "checklist"
+    },
+    {
+      "id": "observation",
+      "title": {
+        "nl": "Waarnemen",
+        "en": "Observation"
+      },
+      "icon": "eye.fill"
+    }
+  ],
+  "topics": [
+    {
+      "id": "nlp-practitioner-onderwerpen-en-korte-samenvatting",
+      "category": "overview",
+      "title": {
+        "nl": "NLP (practitioner) onderwerpen en korte samenvatting",
+        "en": "NLP Practitioner Topics and Short Summary"
+      },
+      "icon": "books.vertical.fill",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-practitioner-onderwerpen-en-korte-samenvatting.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-practitioner-onderwerpen-en-korte-samenvatting.html",
+      "markdownResource": "library-markdown/nlp-practitioner-onderwerpen-en-korte-samenvatting.md"
+    },
+    {
+      "id": "nlp-basisframes",
+      "category": "foundation",
+      "title": {
+        "nl": "NLP Basisframes",
+        "en": "NLP Base Frames"
+      },
+      "icon": "square.stack.3d.up",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-basisframes.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-basisframes.html",
+      "markdownResource": "library-markdown/nlp-basisframes.md"
+    },
+    {
+      "id": "nlp-communicatiemodel",
+      "category": "communication",
+      "title": {
+        "nl": "NLP Communicatiemodel",
+        "en": "NLP Communication Model"
+      },
+      "icon": "arrow.triangle.branch",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-communicatiemodel.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-communicatiemodel.html",
+      "markdownResource": "library-markdown/nlp-communicatiemodel.md"
+    },
+    {
+      "id": "neuro-logische-niveaus-van-nlp",
+      "category": "foundation",
+      "title": {
+        "nl": "(Neuro)Logische niveaus van NLP",
+        "en": "(Neuro)Logical Levels of NLP"
+      },
+      "icon": "square.stack.3d.up.fill",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/neuro-logische-niveaus-van-nlp.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/neuro-logische-niveaus-van-nlp.html",
+      "markdownResource": "library-markdown/neuro-logische-niveaus-van-nlp.md"
+    },
+    {
+      "id": "rapport",
+      "category": "communication",
+      "title": {
+        "nl": "Rapport",
+        "en": "Rapport"
+      },
+      "icon": "person.2.fill",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/rapport.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/rapport.html",
+      "markdownResource": "library-markdown/rapport.md"
+    },
+    {
+      "id": "meta-taalmodel",
+      "category": "language",
+      "title": {
+        "nl": "Meta taalmodel",
+        "en": "Meta Model"
+      },
+      "icon": "magnifyingglass",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/meta-taalmodel.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/meta-taalmodel.html",
+      "markdownResource": "library-markdown/meta-taalmodel.md"
+    },
+    {
+      "id": "milton-taalmodel",
+      "category": "language",
+      "title": {
+        "nl": "Milton taalmodel",
+        "en": "Milton Model"
+      },
+      "icon": "quote.bubble.fill",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/milton-taalmodel.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/milton-taalmodel.html",
+      "markdownResource": "library-markdown/milton-taalmodel.md"
+    },
+    {
+      "id": "ankeren",
+      "category": "practice",
+      "title": {
+        "nl": "Ankeren",
+        "en": "Anchoring"
+      },
+      "icon": "app.connected.to.app.below.fill",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/ankeren.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/ankeren.html",
+      "markdownResource": "library-markdown/ankeren.md"
+    },
+    {
+      "id": "herkaderen",
+      "category": "practice",
+      "title": {
+        "nl": "Herkaderen",
+        "en": "Reframing"
+      },
+      "icon": "arrow.triangle.2.circlepath",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/herkaderen.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/herkaderen.html",
+      "markdownResource": "library-markdown/herkaderen.md"
+    },
+    {
+      "id": "representatiesystemen",
+      "category": "communication",
+      "title": {
+        "nl": "Representatiesystemen",
+        "en": "Representational Systems"
+      },
+      "icon": "eye.fill",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/representatiesystemen.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/representatiesystemen.html",
+      "markdownResource": "library-markdown/representatiesystemen.md"
+    },
+    {
+      "id": "nlp-werkmodel",
+      "category": "practice",
+      "title": {
+        "nl": "NLP werkmodel",
+        "en": "NLP Work Model"
+      },
+      "icon": "checklist",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-werkmodel.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-werkmodel.html",
+      "markdownResource": "library-markdown/nlp-werkmodel.md"
+    },
+    {
+      "id": "oogpatronen",
+      "category": "observation",
+      "title": {
+        "nl": "Oogpatronen",
+        "en": "Eye Patterns"
+      },
+      "icon": "eye",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/oogpatronen.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/oogpatronen.html",
+      "markdownResource": "library-markdown/oogpatronen.md"
+    },
+    {
+      "id": "waarneemposities",
+      "category": "observation",
+      "title": {
+        "nl": "Waarneemposities",
+        "en": "Perceptual Positions"
+      },
+      "icon": "scope",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/waarneemposities.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/waarneemposities.html",
+      "markdownResource": "library-markdown/waarneemposities.md"
+    },
+    {
+      "id": "zintuigelijk-scherpzinnigheid",
+      "category": "observation",
+      "title": {
+        "nl": "Zintuigelijk scherpzinnigheid",
+        "en": "Sensory Acuity"
+      },
+      "icon": "ear.and.waveform",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/zintuigelijk-scherpzinnigheid.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/zintuigelijk-scherpzinnigheid.html",
+      "markdownResource": "library-markdown/zintuigelijk-scherpzinnigheid.md"
+    },
+    {
+      "id": "het-ontstaan-van-nlp",
+      "category": "foundation",
+      "title": {
+        "nl": "Het ontstaan van NLP",
+        "en": "The Origin of NLP"
+      },
+      "icon": "clock.arrow.trianglehead.counterclockwise.rotate.90",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/het-ontstaan-van-nlp.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/het-ontstaan-van-nlp.html",
+      "markdownResource": "library-markdown/het-ontstaan-van-nlp.md"
+    },
+    {
+      "id": "nlp-vooronderstellingen",
+      "category": "foundation",
+      "title": {
+        "nl": "NLP Vooronderstellingen",
+        "en": "NLP Presuppositions"
+      },
+      "icon": "lightbulb.max.fill",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/nlp-vooronderstellingen.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/nlp-vooronderstellingen.html",
+      "markdownResource": "library-markdown/nlp-vooronderstellingen.md"
+    },
+    {
+      "id": "submodaliteiten",
+      "category": "practice",
+      "title": {
+        "nl": "Submodaliteiten",
+        "en": "Submodalities"
+      },
+      "icon": "slider.horizontal.3",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/submodaliteiten.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/submodaliteiten.html",
+      "markdownResource": "library-markdown/submodaliteiten.md"
+    },
+    {
+      "id": "chunken-met-taal",
+      "category": "language",
+      "title": {
+        "nl": "Chunken met taal",
+        "en": "Chunking With Language"
+      },
+      "icon": "text.alignleft",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/chunken-met-taal.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/chunken-met-taal.html",
+      "markdownResource": "library-markdown/chunken-met-taal.md"
+    },
+    {
+      "id": "identiteit-als-hulpbron",
+      "category": "practice",
+      "title": {
+        "nl": "Identiteit als hulpbron",
+        "en": "Identity as a Resource"
+      },
+      "icon": "person.crop.circle.badge.plus",
+      "markdownURL": "https://example.com/daily-nlp/library-markdown/identiteit-als-hulpbron.md",
+      "htmlURL": "https://cdn.macwhisper.com/dailyNLP/new/identiteit-als-hulpbron.html",
+      "markdownResource": "library-markdown/identiteit-als-hulpbron.md"
+    }
+  ]
+}
